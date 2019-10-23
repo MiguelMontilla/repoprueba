@@ -10,7 +10,7 @@ hola esto es una prueba
 
 Probando autoria
 
-Esto lo escribo enun nuevo dia
+Choca
 
 Jeje
 
