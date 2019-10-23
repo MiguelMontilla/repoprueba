@@ -2,7 +2,7 @@
 Just another test repository to play with git
 
 hghf
-Hola que pasa
+A ver si choca
 
 Vamos a intentar crear un error
 
