@@ -2,6 +2,7 @@
 Just another test repository to play with git
 
 hghf.
+A ver aqui modifico
 
 A ver si choca
 
@@ -13,7 +14,7 @@ hola a ver esto es una prueba
 
 Probando autoria
 
- esto q es hola  choca?ca
+ esto ah y aqui q es hola  choca?ca
 
 Jeje
 
@@ -23,4 +24,6 @@ Va a choca x fin jejee.
 hola
 
 No se q
+
+Aqui tambien 
 
