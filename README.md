@@ -6,11 +6,11 @@ A ver si choca
 Pues esto esta asi loco
 Vamos a intentar crear un error
 jeje
-hola esto es una prueba
+hola a ver esto es una prueba
 
 Probando autoria
 
-Choca
+ esto q es Choca
 
 Jeje
 
