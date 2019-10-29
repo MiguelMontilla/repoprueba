@@ -64,7 +64,7 @@ Ahora, al abrir el fichero en cuestión, el segundo cliente verá algo del sigui
   3. Lo que ha escrito este segundo cliente (el que ha abierto el fichero)
   4. =======
   5. En esta línea, estará lo que hizo el otro cliente en esa misma línea que lo anterior
-  6. >>>>>>> Aquí habrá unas letras y números haciendo referencia al cliente que lo modificó.
+  6. ">>>>>>>" Aquí habrá unas letras y números haciendo referencia al cliente que lo modificó.
   7. Una vez que el segundo cliente ve esto, deberá unificar estas dos líneas dejando una con lo apropiado y hacer un _push_.
 
 
