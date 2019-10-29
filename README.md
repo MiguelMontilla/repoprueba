@@ -55,14 +55,14 @@ Pues nada
 
 
 1. En primer lugar, conviene conocer cuando se produce este conflicto, que ocurre cuando dos clientes hacen un _pull_. Posteriormente, 
-un cliente hace sus modificaciones en las lineas 2 y 3 y realiza un _push_. \n
-Por otro lado, el otro cliente modifica las líneas 3 y 4 e intenta realizar un _push_. \n
-En este caso, git le informa que ha habido un problema y no se ha podido (porque otro cliente ha modificado alguna de esas líneas y git no puede unificarlo todo en uno). \n
-Por ello, el segundo cliente deberá hace un _pull_ (a su servidor local que ha modificado él también) para traerse lo que ha modificado el otro cliente. \n
+un cliente hace sus modificaciones en las lineas 2 y 3 y realiza un _push_. 
+Por otro lado, el otro cliente modifica las líneas 3 y 4 e intenta realizar un _push_. 
+En este caso, git le informa que ha habido un problema y no se ha podido (porque otro cliente ha modificado alguna de esas líneas y git no puede unificarlo todo en uno).
+Por ello, el segundo cliente deberá hace un _pull_ (a su servidor local que ha modificado él también) para traerse lo que ha modificado el otro cliente.
 Ahora, al abrir el fichero en cuestión, el segundo cliente verá algo del siguiente estilo en las líneas conflictivas:
-  2. <<<<<<< HEAD
+  2. "<<<<<<<" HEAD
   3. Lo que ha escrito este segundo cliente (el que ha abierto el fichero)
-  4. =======
+  4. "======="
   5. En esta línea, estará lo que hizo el otro cliente en esa misma línea que lo anterior
   6. ">>>>>>>" Aquí habrá unas letras y números haciendo referencia al cliente que lo modificó.
   7. Una vez que el segundo cliente ve esto, deberá unificar estas dos líneas dejando una con lo apropiado y hacer un _push_.
